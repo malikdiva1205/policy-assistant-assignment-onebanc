@@ -2,7 +2,7 @@
 from pathlib import Path
 from decimal import Decimal
 
-DATA_DIR = Path("Files")
+DATA_DIR = Path(".")
 
 
 def load_documents():
