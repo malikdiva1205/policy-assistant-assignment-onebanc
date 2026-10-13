@@ -1,0 +1,2 @@
+1. Different wording: The assistant relies on specific keywords to understand questions. If a customer asks the same thing in a different way, it might respond with CANNOT_ANSWER even when the answer is available in the documents.
+2. Missing context: The assistant cannot always answer questions specific to a customer, such as their bank’s daily transaction limit or whether a merchant has completed enhanced KYC, unless this information is available and the system has rules to handle it.
